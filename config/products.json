@@ -1,0 +1,6 @@
+{"data":[
+    {"name":"apples", "price":0.25, "payment":"standard"},
+    {"name":"garlic", "price":0.15, "payment":"standard"},
+    {"name":"oranges", "price":0.30, "payment":"standard"},
+    {"name":"papayas", "price":0.50, "payment":"threeForTwo", "promotion":"3x2"}
+]}

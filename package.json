@@ -1,0 +1,23 @@
+{
+  "name": "r3pi",
+  "version": "1.0.0",
+  "description": "A simple basket manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/giusedroid/r3pi-basket.git"
+  },
+  "keywords": [
+    "tech",
+    "test"
+  ],
+  "author": "Giuseppe Battista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giusedroid/r3pi-basket/issues"
+  },
+  "homepage": "https://github.com/giusedroid/r3pi-basket#readme"
+}
