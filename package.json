@@ -4,7 +4,7 @@
   "description": "A simple basket manager",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "run": "node app.js"
   },
   "repository": {
     "type": "git",
